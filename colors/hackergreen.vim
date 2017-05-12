@@ -16,7 +16,7 @@ let g:colors_name = "hackergreen"
 "hi CTagsMember -- no settings --
 "hi CTagsGlobalConstant -- no settings --
 "hi Ignore -- no settings --
-hi Normal guifg=#00ff00 guibg=#1e1e27 guisp=#1e1e27 gui=NONE ctermfg=10 ctermbg=235 cterm=NONE
+hi Normal guifg=#00eb00 guibg=#000000 guisp=#000000 gui=NONE ctermfg=10 ctermbg=NONE cterm=NONE
 "hi CTagsImport -- no settings --
 "hi CTagsGlobalVariable -- no settings --
 "hi SpellRare -- no settings --
